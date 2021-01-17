@@ -1,0 +1,10 @@
+.city-cell {
+  cursor: pointer;
+  &:hover {
+    color: #3949ab;
+  }
+}
+
+.footer-msg {
+  font-size: smaller;
+}
